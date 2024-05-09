@@ -6,6 +6,6 @@ My attempt to make a N-Body simulation running in Python with cuda.
 | Key/Input | Action |
 | :---: | :---: |
 | LMB | Place a Star |
-| RMB | Places a Galaxy |
+| RMB | Place a Galaxy |
 | LMB or RMB + drag | Gives bodies initial velocities |
 | ESC | Close GALAXYM|
