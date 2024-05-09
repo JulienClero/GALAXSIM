@@ -2,7 +2,7 @@
 My attempt to make a N-Body simulation running in Python with cuda.
 
 ## Controls
-*GALAXSIMr* uses a minimalistic controls.
+*GALAXSIM* uses a minimalistic controls.
 | Key/Input | Action |
 | :---: | :---: |
 | LMB | Place a Star |
